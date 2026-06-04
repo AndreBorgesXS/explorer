@@ -1,0 +1,10 @@
+```
+# Build outputs
+explorer.globe.engineer/_app/
+explorer.globe.engineer/index.html
+
+# Compressed/Cached assets
+*.css
+*.js
+*.png
+```
